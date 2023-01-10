@@ -31,6 +31,7 @@ public class UsePen {
 		for(int i=0;i<pens.length;i++) {
 			if(i%2==0) {
 				System.out.println(pens[i].brand+","+pens[i].price+","+pens[i].colour);
+				System.out.println("****");
 			}
 		}
 		

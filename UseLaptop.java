@@ -50,6 +50,7 @@ public class UseLaptop {
 		for(Laptop a:laptops) {
 			if(a.brand.length()%2==0) {
 				System.out.println(a.brand.toUpperCase());
+				System.out.println("ggggg");
 			}
 		}
 		
